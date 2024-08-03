@@ -6,7 +6,7 @@ ini adalah tampilan dari portfolio yang saya buat dan bagaimana untuk menjalanka
 
 ## home
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./image/home.png)
 
 ## About me
 
