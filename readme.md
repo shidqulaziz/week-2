@@ -10,19 +10,19 @@ ini adalah tampilan dari portfolio yang saya buat dan bagaimana untuk menjalanka
 
 ## About me
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./image/about.png)
 
 ## Education
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./image/journey.png)
 
 ## Skill
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./image/skill.png)
 
 ## Contact
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./image/contact.png)
 ## Run Locally
 
 Clone the project
